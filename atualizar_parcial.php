@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Atualizar Parcial (PATCH)</title>
+    <title>Atualizar Parcial</title>
 </head>
 <body>
     <h2>Atualização parcial do produto</h2>

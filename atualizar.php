@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Atualizar Produto (PUT)</title>
+    <title>Atualizar Produto</title>
 </head>
 <body>
-    <h2>Atualizar Produto (PUT)</h2>
+    <h2>Atualizar Produto</h2>
     <form method="POST">
         <label for="id">ID do produto: </label>
         <input type="text" name="id" required><br><br>
