@@ -1,7 +1,7 @@
 # Gerenciador de Produtos - DummyJSON API
 
 Projeto da disciplina de Programação Web.
-Aluno: David Vinícius Dias de Oliveira - 2° Semestre, período noturno.
+Aluno: David Vinícius Dias de Oliveira - 3° Semestre, período noturno.
 Curso: Análise e Desenvolvimento de Sistemas - FATEC TAQUARITINGA.
 
 CRUD completo em PHP consumindo a API [DummyJSON](https://dummyjson.com/products).
