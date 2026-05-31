@@ -21,6 +21,7 @@
             <th>Nome</th>
             <th>Telefone</th>
             <th>Email</th>
+            <th>Observações</th>
             <th>Ações</th>
         </tr>
 
@@ -29,6 +30,7 @@
             <td><?= $linha['nome'] ?></td>
             <td><?= $linha['telefone'] ?></td>
             <td><?= $linha['email'] ?></td>
+            <td><?= $linha['observacoes'] ?></td>
             <td>
                 <a href="pagina3.php?id=<?= $linha['id'] ?>">Editar</a>
                 <a href="pagina4.php?id=<?= $linha['id'] ?>">Excluir</a>
